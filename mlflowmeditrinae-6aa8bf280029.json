@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mlflowmeditrinae",
+  "private_key_id": "6aa8bf2800290c4cb90773dc84974a19fc25034f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCc/l6qQHgozcoj\necyLUVo7rQuVZZk+X9cuF9nVKIPo7WC/K4dxoE4JanTZmhfwVoQbW9ak7wrvF6nY\nEuod5uja7W8ukfpfkG/2CGTkz3fhMMCje/la3sU7P/oKJuvVrC9h6h8VdTggM7X/\nYpPvj5bvee21TFNQg3tO5sAx679YOP99wJXJzqJtp5uump+C0F5XG5xH0Fs1ntV5\nCiW51QB8XfTAOJbBufkZky359TW8f2QIBOwQCxKf/rVvb3Yf/lkyT45u7ngJg+t5\ndPI4bZp370j1v0ZeBWyurUoSxNpMTy7n8uMCzFtkl4WONBuoE227vpR2vIXVJFfp\noSMv4mTFAgMBAAECggEABiZMDX9SGNRIA7M78RIgk3lZqVvuA7yfC6OfotY//1U7\nE30p3hueKu30KIKJ4QSpwjH+NEtwm9rksL2iIfk46+7eJDTpWcOpF+COZf/lekxd\nvQASDX5WVS+SN9vivYw0D/HeKInerYFxDER8UIEJDWJ/wZJwXTurp+fPvzTbM8it\nOwlGzy/osLd0j8wlqD4ANopWMMpjbSb5vWCKzFnry4tep5GaMLW3VnSEe384fZU8\nxD6fEuEJEUB6Je1lqj28C+YXZAYhvkvJuYnh3k4/x70XV8PjaD0qNJYzuFA8K6P0\nWJbIwfq4KpjvG5UbfDzDRnE7GDzY2JWSAvI7cQ0xAQKBgQDZaUL8VCwReWZlKX1M\n+JxivUU1Wfz6t5hg+420R455DH9Ybm3cVxvRhQALN/dUTL/R334SdcN5Qbructpa\noOqeDQISr+ZbePXRh8dEcv6Npyw4NYkYLyJpiTSfhnWHv1hc4/Czp06fwsTvAHUV\n9cksAgm+NfZ0SfLU9NN59oJrAQKBgQC429pkBwHWX2fpfB+vc5DDXm2vultGkhQ6\nNSt94Jhvhvf0ducO46tHOEl3v7uTuSP7BGnwXTHCrJOatbnPh5z/t0LfwqY6bbB3\n4QjCOvQstm2qcigSk9j7GoqH1+2bY8By1k7i1vk6eyzuJbw0DreUhMdTmybwiavH\nzWThQRcNxQKBgQCridcVemBO5Ud6WBMKMTpK2eWKY9csBsIO+0viS3dJYSf1ISRD\nbuN/G/5d26mk9O2AbWNus0YpHUidrTdFvKOBUugo0GrkD3t8+DGse0MHhzhnnS3v\nS/lN5bkEiTWghsP0ftDDHyX0/dsebHD1g7lXpMAFOVScimAz0HwvReW/AQKBgG6x\nHz2kQIJoUKWr8KEz1yxVf+Ko+XzxffE441kVwtGNhS46gLMWuvoDh2KQSbb0NspZ\nY0JN270Rb7VFOgU91FH/H6kzOixkgDXYZ1E+0fVwK4zTnJE7PMNnqiobryjL+3II\nR+ZnCYfuOAJGUELvyRfCxkSW9CM2nMkggVasjixtAoGAJ5bp/wQ4XSNOjWaGcP5o\ns5IpaJTqCNVo7fmD6xF0OOPPxg9y9YuA1iEsDxosgEjlskspnRqFxSZ9o8xio4OS\nLsKrEluvTVyT/4Gy36zUPfUvdDebpXSKdaf5yHqf+ML8YBZmo4MI1J1ho6Z2aPiX\nT1PAsPiHSdMI5MQ3QYof9Y8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mlflowmeditrinae@mlflowmeditrinae.iam.gserviceaccount.com",
+  "client_id": "111895676167387011627",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mlflowmeditrinae%40mlflowmeditrinae.iam.gserviceaccount.com"
+}
