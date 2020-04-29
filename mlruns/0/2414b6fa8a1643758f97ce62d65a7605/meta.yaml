@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vincentdandenault/Google%20Drive/Aalto/CS-E4002-ML/MLFlow_Meditrinae/mlruns/0/2414b6fa8a1643758f97ce62d65a7605/artifacts
+end_time: 1588012237793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 2414b6fa8a1643758f97ce62d65a7605
+run_uuid: 2414b6fa8a1643758f97ce62d65a7605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1588012237760
+status: 3
+tags: []
+user_id: vincentdandenault
